@@ -27,7 +27,7 @@ footer {
     border-bottom: 34px;
     color:white;
     background-color: #7f5a83;
-    background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     
 }
 
@@ -38,15 +38,17 @@ footer {
 }
 
 .navbar {
-    background-color: #7b1fa2;
+    background-color: #901CAD;
 }
 .site-footer{
     background-image: linear-gradient(#b7a8f8, white);
     padding: 20px 0px;
 }
 
-.tab-content {
-    border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
 }
