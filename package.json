@@ -2,10 +2,11 @@
   "name": "nucampsite",
   "version": "1.0.0",
   "description": "This is a website for the fictional campsites review site NuCamp.",
-  "main": "index.html",
+  "main": "index_chal1129.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

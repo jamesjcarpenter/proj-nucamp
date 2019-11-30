@@ -15,6 +15,9 @@ header h2 {
     color: #cec8ff;
 
 }
+a {
+  cursor:pointer;
+}
 
 footer {
     background-image: linear-gradient(#cec8ff, white);
@@ -44,6 +47,7 @@ footer {
     background-image: linear-gradient(#b7a8f8, white);
     padding: 20px 0px;
 }
+
 
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.5);
